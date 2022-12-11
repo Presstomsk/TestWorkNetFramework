@@ -1,2 +1,2 @@
 # TestWorkNetFramework
- Диспетчер задач
+ Диспетчер задач на .NET Framework WinForms с использованием Thread. 
